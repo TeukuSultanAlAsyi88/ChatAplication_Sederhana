@@ -1,6 +1,6 @@
-# Chattatan
+# ChatAplication_Sederhana
 
-Chattatan adalah aplikasi web chat berbasis Laravel 10 + MySQL. Project ini sudah disesuaikan dari struktur Laravel asli, bukan stub, sehingga `php artisan` bisa berjalan normal.
+ChatAplication adalah aplikasi web chat berbasis Laravel 10 + MySQL. Project ini sudah disesuaikan dari struktur Laravel asli, bukan stub, sehingga `php artisan` bisa berjalan normal.
 
 ## Fitur
 
