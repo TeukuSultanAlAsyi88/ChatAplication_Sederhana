@@ -24,7 +24,7 @@ Realtime Chat Application built with Laravel Framework
 # Tentang Project
 
 ChatApplication adalah aplikasi chat realtime berbasis web yang dikembangkan menggunakan framework Laravel.  
-Project ini dibuat untuk menyediakan sistem komunikasi modern antar pengguna secara realtime dengan fitur private chat, group chat, online status, contact management, dan realtime broadcasting menggunakan Laravel Reverb serta Laravel Echo.
+Project ini dibuat untuk menyediakan sistem komunikasi modern antar pengguna secara realtime dengan fitur private chat, group chat, online status, dan realtime broadcasting menggunakan Laravel Reverb serta Laravel Echo.
 
 Aplikasi ini dirancang dengan arsitektur Laravel modern yang memanfaatkan:
 
